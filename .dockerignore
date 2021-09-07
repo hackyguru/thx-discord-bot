@@ -1,0 +1,5 @@
+logs
+node_modules
+mongo_data
+yarn.lock
+.env
