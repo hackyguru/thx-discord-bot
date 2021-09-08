@@ -1,0 +1,23 @@
+{
+	"name": "example-discord.js-bot",
+	"version": "1.0.0",
+	"description": "Bot stuff",
+	"engines": {
+		"node": "16.6.x",
+		"npm": "7.x"
+	},
+	"main": "index.js",
+	"scripts": {
+		"start": "node index"
+	},
+	"keywords": [
+		"discordjs"
+	],
+	"author": "Jordyn",
+	"license": "MIT",
+	"dependencies": {
+		"discord.js": "^13.0.1",
+		"dotenv": "^8.6.0",
+		"node": "16.6.1"
+	}
+}
