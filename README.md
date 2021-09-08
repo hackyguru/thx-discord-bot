@@ -2,6 +2,13 @@
 
 The bot is integrated with the presently available discord bot of THX. The THX Bot can be used to reward message authors with ERC20 tokens from a pool by reacting with certain emojies on their contributions in a channel. You can also conduct polls through the bot by using /poll command. It is possible to host rewarded polls where the community members can vote and the highest voted mention would automatically be rewarded.
 
+### Features and improvements
+- The previous bot (https://github.com/thxprotocol/discord-bot) did not greet the users upon arrival to the server. I implemented a greeting intent which would welcome a user with a simple image and a ping upon arrival.
+- To understand the opinions of users, I added a poll widget which can be used by the admins for creating polls.
+- The command pallete has better description and workflow of creating wallet, linking an existing wallet or getting information about your connected wallet.
+- To incentivize meet and greet with community collaboration, I have added a number of commands.
+
+
 ### Prerequisites
 
 #### 1. [Signup for a THX account](https://www.thx.network/signup)
